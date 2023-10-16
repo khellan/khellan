@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am CTO of the proptech startup [Findable](http://findable.ai/).
+
+My technical work is focused on data processing pipelines, machine learning and cloud infrastructure.
+
+I sometimes contribute to open source. Unfortunately, I am not able to contribute as much as I want to.
+
 <!--
 **khellan/khellan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
